@@ -1,0 +1,128 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "19.08.2021 21:28:57",
+    "FullExportDate": "19.08.2021 21:28:57",
+    "OptionsHash": "3d5b136",
+    "LastMergedCommit": "",
+    "Components": {
+      "Forms": {
+        "BewohnerAnlegen.bas": {
+          "Hash": "4c87770",
+          "ExportDate": "19.08.2021 21:28:57",
+          "SourceModified": "19.08.2021 21:28:57",
+          "FilePropertiesHash": "09ff001"
+        },
+        "frmVeranstaltungCreate.bas": {
+          "Hash": "0b541ca",
+          "ExportDate": "19.08.2021 21:28:57",
+          "SourceModified": "19.08.2021 21:28:57",
+          "FilePropertiesHash": "c65cb99"
+        },
+        "frmVeranstaltungPerson.bas": {
+          "Hash": "7677193",
+          "ExportDate": "19.08.2021 21:28:57",
+          "SourceModified": "19.08.2021 21:28:57",
+          "FilePropertiesHash": "03b9484"
+        },
+        "PersonalAnlegen.bas": {
+          "Hash": "2ed941f",
+          "ExportDate": "19.08.2021 21:28:57",
+          "SourceModified": "19.08.2021 21:28:57",
+          "FilePropertiesHash": "fd76d4f"
+        }
+      },
+      "Modules": {
+        "Modul1.bas": {
+          "Hash": "aad4479",
+          "ExportDate": "19.08.2021 21:28:57",
+          "SourceModified": "19.08.2021 21:28:57",
+          "FilePropertiesHash": "78280f1"
+        }
+      },
+      "Project": {
+        "project.json": {
+          "Hash": "9feedaa",
+          "ExportDate": "19.08.2021 21:28:53",
+          "SourceModified": "19.08.2021 21:28:53",
+          "FilePropertiesHash": "d5953d2"
+        }
+      },
+      "Queries": {
+        "AbfrageBewohner.bas": {
+          "ExportDate": "19.08.2021 21:28:54",
+          "SourceModified": "19.08.2021 21:28:54",
+          "FilePropertiesHash": "09af228"
+        },
+        "Kopie von AbfrageBewohner.bas": {
+          "ExportDate": "19.08.2021 21:28:54",
+          "SourceModified": "19.08.2021 21:28:54",
+          "FilePropertiesHash": "9901f54"
+        },
+        "TeilnahmeBewohnerVeranstaltung Abfrage.bas": {
+          "ExportDate": "19.08.2021 21:28:54",
+          "SourceModified": "19.08.2021 21:28:54",
+          "FilePropertiesHash": "98f18fa"
+        },
+        "Veranstaltung Abfrage.bas": {
+          "ExportDate": "19.08.2021 21:28:54",
+          "SourceModified": "19.08.2021 21:28:54",
+          "FilePropertiesHash": "2f67d0a"
+        },
+        "Veranstaltung Abfrage1.bas": {
+          "ExportDate": "19.08.2021 21:28:54",
+          "SourceModified": "19.08.2021 21:28:54",
+          "FilePropertiesHash": "2a67773"
+        }
+      },
+      "Tables": {
+        "Bewohner.xml": {
+          "ExportDate": "19.08.2021 21:28:53",
+          "SourceModified": "19.08.2021 21:28:53",
+          "FilePropertiesHash": "db2af95"
+        },
+        "Ort.xml": {
+          "ExportDate": "19.08.2021 21:28:53",
+          "SourceModified": "19.08.2021 21:28:53",
+          "FilePropertiesHash": "c255cb5"
+        },
+        "Personal.xml": {
+          "ExportDate": "19.08.2021 21:28:53",
+          "SourceModified": "19.08.2021 21:28:53",
+          "FilePropertiesHash": "a77698c"
+        },
+        "Tagesplan.xml": {
+          "ExportDate": "19.08.2021 21:28:53",
+          "SourceModified": "19.08.2021 21:28:53",
+          "FilePropertiesHash": "8a421e2"
+        },
+        "Veranstaltung.xml": {
+          "ExportDate": "19.08.2021 21:28:53",
+          "SourceModified": "19.08.2021 21:28:53",
+          "FilePropertiesHash": "6528cc3"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "Hash": "99b8dec",
+          "ExportDate": "19.08.2021 21:28:53",
+          "SourceModified": "19.08.2021 21:28:53",
+          "FilePropertiesHash": "60ce269"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "Hash": "b8c006d",
+          "ExportDate": "19.08.2021 21:28:53",
+          "SourceModified": "19.08.2021 21:28:53",
+          "FilePropertiesHash": "4a2b253"
+        }
+      }
+    }
+  }
+}

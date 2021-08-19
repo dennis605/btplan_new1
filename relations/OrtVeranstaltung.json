@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "OrtVeranstaltung",
+    "Attributes": 0,
+    "Table": "Ort",
+    "ForeignTable": "Veranstaltung",
+    "Fields": [
+      {
+        "Name": "IDOrt",
+        "ForeignName": "linkOrtVeranstaltung"
+      }
+    ]
+  }
+}

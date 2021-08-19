@@ -1,0 +1,10 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSavedSpec",
+    "Description": "Saved Import/Export Specification"
+  },
+  "Items": {
+    "Name": "Bewohner für Export",
+    "XML": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<ImportExportSpecification Path = \"C:\\Users\\dennis\\OneDrive\\Dokumente\\Bewohner.xlsx\" xmlns=\"urn:www.microsoft.com/office/access/imexspec\">\n\t<ExportExcel  AccessObject=\"Bewohner\" ObjectType=\"Table\" ExcelFormat=\"Excel12Xml\" Range=\"Bewohner\" />\n</ImportExportSpecification>"
+  }
+}
