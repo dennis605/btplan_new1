@@ -2,8 +2,8 @@
 Beginning Export of all Source
 BTPlan_Multi_field_jetzt_Time_Picker1.accdb
 VCS Version 3.4.15
-Performing Full Export
-19.08.2021 21:28:52
+Using Fast Save
+19.08.2021 21:50:56
 -------------------------------------
 -------------------------------------
 Exporting project...          
@@ -18,9 +18,9 @@ Exporting vbe references...
   stdole
 [3]
 -------------------------------------
-No vbe forms found in this database.
+No modified vbe forms found in this database.
 -------------------------------------
-No proj properties found in this database.
+No modified proj properties found in this database.
 -------------------------------------
 Exporting saved specs...      
   Bewohner für Export
@@ -30,72 +30,33 @@ Exporting db properties...
   Database Properties (DAO)
 [33]
 -------------------------------------
-No shared images found in this database.
+No modified shared images found in this database.
 -------------------------------------
 Exporting themes...           
   Office
 [1]
 -------------------------------------
-No imex specs found in this database.
+No modified imex specs found in this database.
 -------------------------------------
 Exporting tables...           
-  Bewohner
-    Sanitized in 0,023 seconds.
-  Bewohner (SQL)
-  Ort
-    Sanitized in 0,006 seconds.
-  Ort (SQL)
-  Personal
-    Sanitized in 0,003 seconds.
-  Personal (SQL)
   Tagesplan
-    Sanitized in 0,003 seconds.
+    Sanitized in 0,005 seconds.
   Tagesplan (SQL)
-  Veranstaltung
-    Sanitized in 0,004 seconds.
-  Veranstaltung (SQL)
-[5]
--------------------------------------
-Exporting queries...          
-  AbfrageBewohner
-    Sanitized in 0,003 seconds.
-  AbfrageBewohner (SQL)
-  Kopie von AbfrageBewohner
-    Sanitized in 0,002 seconds.
-  Kopie von AbfrageBewohner (SQL)
-  TeilnahmeBewohnerVeranstaltung Abfrage
-    Sanitized in 0,002 seconds.
-  TeilnahmeBewohnerVeranstaltung Abfrage (SQL)
-  Veranstaltung Abfrage
-    Sanitized in 0,002 seconds.
-  Veranstaltung Abfrage (SQL)
-  Veranstaltung Abfrage1
-    Sanitized in 0,004 seconds.
-  Veranstaltung Abfrage1 (SQL)
-[5]
--------------------------------------
-Exporting forms...            
-  frmVeranstaltungPerson
-    Sanitized in 0,016 seconds.
-  frmVeranstaltungCreate
-    Sanitized in 0,016 seconds.
-  PersonalAnlegen
-    Sanitized in 0,012 seconds.
-  BewohnerAnlegen
-    Sanitized in 0,010 seconds.
-[4]
--------------------------------------
-No macros found in this database.
--------------------------------------
-No reports found in this database.
--------------------------------------
-No table data found in this database.
--------------------------------------
-Exporting modules...          
-  Modul1
 [1]
 -------------------------------------
-No table data macros found in this database.
+No modified queries found in this database.
+-------------------------------------
+No modified forms found in this database.
+-------------------------------------
+No modified macros found in this database.
+-------------------------------------
+No modified reports found in this database.
+-------------------------------------
+No modified table data found in this database.
+-------------------------------------
+No modified modules found in this database.
+-------------------------------------
+No modified table data macros found in this database.
 -------------------------------------
 Exporting relations...        
   OrtVeranstaltung
@@ -111,9 +72,9 @@ Exporting nav pane groups...
   Groups
 [1]
 -------------------------------------
-No hidden attributes found in this database.
+No modified hidden attributes found in this database.
 -------------------------------------
-Done. (5,28 seconds)
+Done. (1,28 seconds)
 
 --------------------------------------------------
                 PERFORMANCE REPORTS
@@ -121,51 +82,42 @@ Done. (5,28 seconds)
 Object Type                   Count     Seconds
 --------------------------------------------------
 Project                       1         0,01
-VB Project                    1         0,01
-VBE References                3         0,02
+VB Project                    1         0,02
+VBE References                3         0,04
 Saved Specs                   1         0,01
-DB Properties                 33        0,06
+DB Properties                 33        0,17
 Themes                        1         0,01
-Tables                        5         0,48
-Queries                       5         0,82
-Forms                         4         2,90
-Modules                       1         0,03
+Tables                        1         0,02
 Relations                     3         0,03
 Doc Properties                2         0,01
 Nav Pane Groups               1         0,01
 --------------------------------------------------
-TOTALS:                       61        4,40
+TOTALS:                       47        0,35
 --------------------------------------------------
 
 --------------------------------------------------
 Operations                    Count     Seconds
 --------------------------------------------------
-Convert to JSON               368       0,15
-Compute SHA256                32        0,00
-Console Updates               4         1,44
-Write File                    34        0,04
-Verify Path                   50        0,01
-Get Modified Date             18        0,00
-Get File Property Hash        18        0,01
-Create Folder                 7         0,00
+Read File                     12        0,01
+Parse JSON                    11        0,02
+Convert to JSON               409       0,27
+Compute SHA256                13        0,00
+Console Updates               2         0,81
+Compare Dictionary            9         0,00
+Get Modified Date             4         0,00
+Get File Property Hash        4         0,00
+Clear Orphaned                6         0,04
+Write File                    4         0,01
+Verify Path                   6         0,00
+Create Folder                 1         0,00
 Export Theme                  1         0,00
-App.ExportXML()               5         0,39
-Read File                     18        0,02
-Sanitize XML                  5         0,01
-Format XML                    5         0,02
-Save Table SQL                5         0,01
-Increment Progress            2         0,41
-App.SaveAsText()              9         0,09
-Read File Bytes               13        0,00
-Sanitize File                 9         0,06
-Save Query SQL                5         0,00
-Read File DevMode             4         0,01
+App.ExportXML()               1         0,01
+Sanitize XML                  1         0,00
+Format XML                    1         0,00
+Save Table SQL                1         0,00
 Get VBA Hash                  5         0,00
-Export VBE Module             1         0,02
-Enc. Windows-1252 as utf-8    1         0,00
-Delete File                   1         0,00
 --------------------------------------------------
-Other Operations                        2,58
+Other Operations                        0,13
 --------------------------------------------------
 
 

@@ -6,7 +6,7 @@
   "Items": {
     "MergeBuildDate": null,
     "FullBuildDate": null,
-    "ExportDate": "19.08.2021 21:28:57",
+    "ExportDate": "19.08.2021 21:50:57",
     "FullExportDate": "19.08.2021 21:28:57",
     "OptionsHash": "3d5b136",
     "LastMergedCommit": "",
@@ -48,7 +48,7 @@
       "Project": {
         "project.json": {
           "Hash": "9feedaa",
-          "ExportDate": "19.08.2021 21:28:53",
+          "ExportDate": "19.08.2021 21:50:56",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "d5953d2"
         }
@@ -97,9 +97,9 @@
           "FilePropertiesHash": "a77698c"
         },
         "Tagesplan.xml": {
-          "ExportDate": "19.08.2021 21:28:53",
-          "SourceModified": "19.08.2021 21:28:53",
-          "FilePropertiesHash": "8a421e2"
+          "ExportDate": "19.08.2021 21:50:56",
+          "SourceModified": "19.08.2021 21:50:56",
+          "FilePropertiesHash": "9c7c74a"
         },
         "Veranstaltung.xml": {
           "ExportDate": "19.08.2021 21:28:53",
@@ -110,7 +110,7 @@
       "VB Project": {
         "vbe-project.json": {
           "Hash": "99b8dec",
-          "ExportDate": "19.08.2021 21:28:53",
+          "ExportDate": "19.08.2021 21:50:56",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "60ce269"
         }
@@ -118,7 +118,7 @@
       "VBE References": {
         "vbe-references.json": {
           "Hash": "b8c006d",
-          "ExportDate": "19.08.2021 21:28:53",
+          "ExportDate": "19.08.2021 21:50:56",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "4a2b253"
         }
