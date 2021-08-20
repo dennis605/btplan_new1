@@ -1,15 +1,15 @@
 ﻿Operation =1
 Option =0
 Begin InputTables
-    Name ="Bewohner"
-    Name ="Bewohner"
-    Alias ="Bewohner_1"
+    Name ="Veranstaltung"
 End
 Begin OutputColumns
-    Expression ="Bewohner.NameBewohner"
+    Expression ="Veranstaltung.NameVeranstaltung"
+    Expression ="Veranstaltung.AnfangVeranstaltung"
+    Expression ="Veranstaltung.EndeVeranstaltung"
 End
 dbBoolean "ReturnsRecords" ="-1"
-dbInteger "ODBCTimeout" ="0"
+dbInteger "ODBCTimeout" ="60"
 dbByte "RecordsetType" ="0"
 dbBoolean "OrderByOn" ="0"
 dbByte "Orientation" ="0"
@@ -20,7 +20,15 @@ dbBoolean "TotalsRow" ="0"
 dbSingle "ECLScaleFactor" ="2"
 Begin
     Begin
-        dbText "Name" ="Bewohner.NameBewohner"
+        dbText "Name" ="Veranstaltung.NameVeranstaltung"
+        dbLong "AggregateType" ="-1"
+    End
+    Begin
+        dbText "Name" ="Veranstaltung.AnfangVeranstaltung"
+        dbLong "AggregateType" ="-1"
+    End
+    Begin
+        dbText "Name" ="Veranstaltung.EndeVeranstaltung"
         dbLong "AggregateType" ="-1"
     End
 End
@@ -28,31 +36,22 @@ Begin
     State =0
     Left =0
     Top =0
-    Right =1970
-    Bottom =1606
+    Right =2144
+    Bottom =1548
     Left =-1
     Top =-1
-    Right =1937
-    Bottom =1063
-    Left =1938
+    Right =2111
+    Bottom =1039
+    Left =0
     Top =0
     ColumnsShown =539
-    Begin
-        Left =-1746
-        Top =48
-        Right =-1170
-        Bottom =624
-        Top =0
-        Name ="Bewohner"
-        Name =""
-    End
     Begin
         Left =192
         Top =48
         Right =768
         Bottom =624
         Top =0
-        Name ="Bewohner_1"
+        Name ="Veranstaltung"
         Name =""
     End
 End

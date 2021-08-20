@@ -1,0 +1,18 @@
+﻿{
+  "Info": {
+    "Class": "clsDbRelation",
+    "Description": "Database relationship"
+  },
+  "Items": {
+    "Name": "BewohnerVeranstaltung",
+    "Attributes": 2,
+    "Table": "Bewohner",
+    "ForeignTable": "Veranstaltung",
+    "Fields": [
+      {
+        "Name": "IDBewohner",
+        "ForeignName": "Bewohner.Value"
+      }
+    ]
+  }
+}

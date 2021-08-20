@@ -6,7 +6,7 @@
   "Items": {
     "MergeBuildDate": null,
     "FullBuildDate": null,
-    "ExportDate": "19.08.2021 21:50:57",
+    "ExportDate": "21.08.2021 00:01:11",
     "FullExportDate": "19.08.2021 21:28:57",
     "OptionsHash": "3d5b136",
     "LastMergedCommit": "",
@@ -48,7 +48,7 @@
       "Project": {
         "project.json": {
           "Hash": "9feedaa",
-          "ExportDate": "19.08.2021 21:50:56",
+          "ExportDate": "21.08.2021 00:01:10",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "d5953d2"
         }
@@ -64,20 +64,67 @@
           "SourceModified": "19.08.2021 21:28:54",
           "FilePropertiesHash": "9901f54"
         },
+        "Kopie von Veranstaltung Abfrage.bas": {
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "a894d9a"
+        },
+        "qryVeranstaltung.bas": {
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "595c2d4"
+        },
         "TeilnahmeBewohnerVeranstaltung Abfrage.bas": {
           "ExportDate": "19.08.2021 21:28:54",
           "SourceModified": "19.08.2021 21:28:54",
           "FilePropertiesHash": "98f18fa"
         },
+        "testAbfrage1 Abfrage.bas": {
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "acf0174"
+        },
+        "testAbfrage1.bas": {
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "3c11ba6"
+        },
         "Veranstaltung Abfrage.bas": {
-          "ExportDate": "19.08.2021 21:28:54",
-          "SourceModified": "19.08.2021 21:28:54",
-          "FilePropertiesHash": "2f67d0a"
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "a894d9a"
         },
         "Veranstaltung Abfrage1.bas": {
           "ExportDate": "19.08.2021 21:28:54",
           "SourceModified": "19.08.2021 21:28:54",
           "FilePropertiesHash": "2a67773"
+        }
+      },
+      "Reports": {
+        "Bericht1_der_fastgeht.bas": {
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "2d7db9d"
+        },
+        "Kopie von testAbfrage1.bas": {
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "fb9cf71"
+        },
+        "testAbfrage1.bas": {
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "4ca06b8"
+        },
+        "testAbfrage1_nericht.bas": {
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "5a50a75"
+        },
+        "Veranstaltung Abfrage_einspaaltig.bas": {
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "0273be9"
         }
       },
       "Tables": {
@@ -102,15 +149,15 @@
           "FilePropertiesHash": "9c7c74a"
         },
         "Veranstaltung.xml": {
-          "ExportDate": "19.08.2021 21:28:53",
-          "SourceModified": "19.08.2021 21:28:53",
-          "FilePropertiesHash": "6528cc3"
+          "ExportDate": "21.08.2021 00:01:10",
+          "SourceModified": "21.08.2021 00:01:10",
+          "FilePropertiesHash": "ba2ddf5"
         }
       },
       "VB Project": {
         "vbe-project.json": {
           "Hash": "99b8dec",
-          "ExportDate": "19.08.2021 21:50:56",
+          "ExportDate": "21.08.2021 00:01:10",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "60ce269"
         }
@@ -118,7 +165,7 @@
       "VBE References": {
         "vbe-references.json": {
           "Hash": "b8c006d",
-          "ExportDate": "19.08.2021 21:50:56",
+          "ExportDate": "21.08.2021 00:01:10",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "4a2b253"
         }

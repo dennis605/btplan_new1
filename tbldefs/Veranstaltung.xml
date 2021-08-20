@@ -224,12 +224,12 @@
 							<od:fieldProperty name="RowSourceType" type="10" value="Table/Query"/>
 							<od:fieldProperty name="RowSource" type="12" value="SELECT [Personal].[IDPersonal], [Personal].[fldPersonalName] FROM Personal; "/>
 							<od:fieldProperty name="BoundColumn" type="3" value="1"/>
-							<od:fieldProperty name="ColumnCount" type="3" value="2"/>
+							<od:fieldProperty name="ColumnCount" type="3" value="4"/>
 							<od:fieldProperty name="ColumnHeads" type="1" value="0"/>
-							<od:fieldProperty name="ColumnWidths" type="10" value="1440;1440"/>
+							<od:fieldProperty name="ColumnWidths" type="10" value="0;1441;1441;1441"/>
 							<od:fieldProperty name="ListRows" type="3" value="16"/>
 							<od:fieldProperty name="ListWidth" type="10" value="2880Twip"/>
-							<od:fieldProperty name="LimitToList" type="1" value="0"/>
+							<od:fieldProperty name="LimitToList" type="1" value="1"/>
 							<od:fieldProperty name="TextAlign" type="2" value="0"/>
 							<od:fieldProperty name="AllowValueListEdits" type="1" value="1"/>
 							<od:fieldProperty name="AggregateType" type="4" value="-1"/>

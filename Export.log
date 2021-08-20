@@ -3,7 +3,7 @@ Beginning Export of all Source
 BTPlan_Multi_field_jetzt_Time_Picker1.accdb
 VCS Version 3.4.15
 Using Fast Save
-19.08.2021 21:50:56
+21.08.2021 00:01:09
 -------------------------------------
 -------------------------------------
 Exporting project...          
@@ -39,18 +39,49 @@ Exporting themes...
 No modified imex specs found in this database.
 -------------------------------------
 Exporting tables...           
-  Tagesplan
+  Veranstaltung
     Sanitized in 0,005 seconds.
-  Tagesplan (SQL)
+  Veranstaltung (SQL)
 [1]
+  Removing orphaned file: Kopie von AbfrageBewohner.bas
+  Removing orphaned file: Kopie von AbfrageBewohner.sql
+  Removing orphaned file: Veranstaltung Abfrage1.bas
+  Removing orphaned file: Veranstaltung Abfrage1.sql
 -------------------------------------
-No modified queries found in this database.
+Exporting queries...          
+  Kopie von Veranstaltung Abfrage
+    Sanitized in 0,005 seconds.
+  Kopie von Veranstaltung Abfrage (SQL)
+  qryVeranstaltung
+    Sanitized in 0,002 seconds.
+  qryVeranstaltung (SQL)
+  testAbfrage1
+    Sanitized in 0,003 seconds.
+  testAbfrage1 (SQL)
+  testAbfrage1 Abfrage
+    Sanitized in 0,002 seconds.
+  testAbfrage1 Abfrage (SQL)
+  Veranstaltung Abfrage
+    Sanitized in 0,005 seconds.
+  Veranstaltung Abfrage (SQL)
+[5]
 -------------------------------------
 No modified forms found in this database.
 -------------------------------------
 No modified macros found in this database.
 -------------------------------------
-No modified reports found in this database.
+Exporting reports...          
+  testAbfrage1_nericht
+    Sanitized in 0,007 seconds.
+  Bericht1_der_fastgeht
+    Sanitized in 0,006 seconds.
+  Kopie von testAbfrage1
+    Sanitized in 0,008 seconds.
+  testAbfrage1
+    Sanitized in 0,008 seconds.
+  Veranstaltung Abfrage_einspaaltig
+    Sanitized in 0,007 seconds.
+[5]
 -------------------------------------
 No modified table data found in this database.
 -------------------------------------
@@ -59,10 +90,11 @@ No modified modules found in this database.
 No modified table data macros found in this database.
 -------------------------------------
 Exporting relations...        
+  BewohnerVeranstaltung
   OrtVeranstaltung
   PersonalVeranstaltung
   VeranstaltungTagesplan
-[3]
+[4]
 -------------------------------------
 Exporting doc properties...   
   Database Documents
@@ -74,7 +106,7 @@ Exporting nav pane groups...
 -------------------------------------
 No modified hidden attributes found in this database.
 -------------------------------------
-Done. (1,28 seconds)
+Done. (2,18 seconds)
 
 --------------------------------------------------
                 PERFORMANCE REPORTS
@@ -83,41 +115,49 @@ Object Type                   Count     Seconds
 --------------------------------------------------
 Project                       1         0,01
 VB Project                    1         0,02
-VBE References                3         0,04
-Saved Specs                   1         0,01
-DB Properties                 33        0,17
+VBE References                3         0,05
+Saved Specs                   1         0,03
+DB Properties                 33        0,13
 Themes                        1         0,01
-Tables                        1         0,02
-Relations                     3         0,03
+Tables                        1         0,03
+Queries                       5         0,09
+Reports                       5         0,68
+Relations                     4         0,04
 Doc Properties                2         0,01
-Nav Pane Groups               1         0,01
+Nav Pane Groups               1         0,02
 --------------------------------------------------
-TOTALS:                       47        0,35
+TOTALS:                       58        1,13
 --------------------------------------------------
 
 --------------------------------------------------
 Operations                    Count     Seconds
 --------------------------------------------------
-Read File                     12        0,01
+Read File                     27        0,01
 Parse JSON                    11        0,02
-Convert to JSON               409       0,27
-Compute SHA256                13        0,00
-Console Updates               2         0,81
+Convert to JSON               570       0,29
+Compute SHA256                29        0,00
+Console Updates               3         1,42
 Compare Dictionary            9         0,00
-Get Modified Date             4         0,00
-Get File Property Hash        4         0,00
-Clear Orphaned                6         0,04
-Write File                    4         0,01
-Verify Path                   6         0,00
-Create Folder                 1         0,00
+Get Modified Date             14        0,00
+Get File Property Hash        14        0,01
+Clear Orphaned                6         0,05
+Write File                    22        0,03
+Verify Path                   34        0,01
+Create Folder                 2         0,00
 Export Theme                  1         0,00
-App.ExportXML()               1         0,01
+App.ExportXML()               1         0,02
 Sanitize XML                  1         0,00
 Format XML                    1         0,00
 Save Table SQL                1         0,00
-Get VBA Hash                  5         0,00
+Delete File                   5         0,00
+App.SaveAsText()              10        0,06
+Read File Bytes               15        0,00
+Sanitize File                 10        0,04
+Save Query SQL                5         0,01
+Get VBA Hash                  10        0,01
+Read File DevMode             5         0,01
 --------------------------------------------------
-Other Operations                        0,13
+Other Operations                        0,22
 --------------------------------------------------
 
 
