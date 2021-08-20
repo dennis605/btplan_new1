@@ -54,11 +54,11 @@ Begin
     Left =0
     Top =0
     Right =2926
-    Bottom =1548
+    Bottom =1606
     Left =-1
     Top =-1
-    Right =1757
-    Bottom =1039
+    Right =2893
+    Bottom =1005
     Left =1038
     Top =0
     ColumnsShown =539

@@ -6,7 +6,7 @@
   "Items": {
     "MergeBuildDate": null,
     "FullBuildDate": null,
-    "ExportDate": "21.08.2021 00:01:11",
+    "ExportDate": "21.08.2021 00:21:19",
     "FullExportDate": "19.08.2021 21:28:57",
     "OptionsHash": "3d5b136",
     "LastMergedCommit": "",
@@ -48,7 +48,7 @@
       "Project": {
         "project.json": {
           "Hash": "9feedaa",
-          "ExportDate": "21.08.2021 00:01:10",
+          "ExportDate": "21.08.2021 00:21:19",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "d5953d2"
         }
@@ -85,9 +85,9 @@
           "FilePropertiesHash": "acf0174"
         },
         "testAbfrage1.bas": {
-          "ExportDate": "21.08.2021 00:01:10",
-          "SourceModified": "21.08.2021 00:01:10",
-          "FilePropertiesHash": "3c11ba6"
+          "ExportDate": "21.08.2021 00:21:19",
+          "SourceModified": "21.08.2021 00:21:19",
+          "FilePropertiesHash": "5242267"
         },
         "Veranstaltung Abfrage.bas": {
           "ExportDate": "21.08.2021 00:01:10",
@@ -102,9 +102,9 @@
       },
       "Reports": {
         "Bericht1_der_fastgeht.bas": {
-          "ExportDate": "21.08.2021 00:01:10",
-          "SourceModified": "21.08.2021 00:01:10",
-          "FilePropertiesHash": "2d7db9d"
+          "ExportDate": "21.08.2021 00:21:19",
+          "SourceModified": "21.08.2021 00:21:19",
+          "FilePropertiesHash": "380d6a4"
         },
         "Kopie von testAbfrage1.bas": {
           "ExportDate": "21.08.2021 00:01:10",
@@ -157,7 +157,7 @@
       "VB Project": {
         "vbe-project.json": {
           "Hash": "99b8dec",
-          "ExportDate": "21.08.2021 00:01:10",
+          "ExportDate": "21.08.2021 00:21:19",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "60ce269"
         }
@@ -165,7 +165,7 @@
       "VBE References": {
         "vbe-references.json": {
           "Hash": "b8c006d",
-          "ExportDate": "21.08.2021 00:01:10",
+          "ExportDate": "21.08.2021 00:21:19",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "4a2b253"
         }
