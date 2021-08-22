@@ -6,7 +6,7 @@
   "Items": {
     "MergeBuildDate": null,
     "FullBuildDate": null,
-    "ExportDate": "21.08.2021 00:21:19",
+    "ExportDate": "22.08.2021 17:51:06",
     "FullExportDate": "19.08.2021 21:28:57",
     "OptionsHash": "3d5b136",
     "LastMergedCommit": "",
@@ -17,6 +17,11 @@
           "ExportDate": "19.08.2021 21:28:57",
           "SourceModified": "19.08.2021 21:28:57",
           "FilePropertiesHash": "09ff001"
+        },
+        "frmTagesplan.bas": {
+          "ExportDate": "22.08.2021 17:51:05",
+          "SourceModified": "22.08.2021 17:51:05",
+          "FilePropertiesHash": "030813f"
         },
         "frmVeranstaltungCreate.bas": {
           "Hash": "0b541ca",
@@ -48,7 +53,7 @@
       "Project": {
         "project.json": {
           "Hash": "9feedaa",
-          "ExportDate": "21.08.2021 00:21:19",
+          "ExportDate": "22.08.2021 17:51:04",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "d5953d2"
         }
@@ -69,10 +74,15 @@
           "SourceModified": "21.08.2021 00:01:10",
           "FilePropertiesHash": "a894d9a"
         },
+        "qry_alles_Wichtige.bas": {
+          "ExportDate": "22.08.2021 17:51:05",
+          "SourceModified": "22.08.2021 17:51:05",
+          "FilePropertiesHash": "91905ff"
+        },
         "qryVeranstaltung.bas": {
-          "ExportDate": "21.08.2021 00:01:10",
-          "SourceModified": "21.08.2021 00:01:10",
-          "FilePropertiesHash": "595c2d4"
+          "ExportDate": "22.08.2021 17:51:05",
+          "SourceModified": "22.08.2021 17:51:05",
+          "FilePropertiesHash": "9a25fa9"
         },
         "TeilnahmeBewohnerVeranstaltung Abfrage.bas": {
           "ExportDate": "19.08.2021 21:28:54",
@@ -111,6 +121,11 @@
           "SourceModified": "21.08.2021 00:01:10",
           "FilePropertiesHash": "fb9cf71"
         },
+        "rptTagesplan.bas": {
+          "ExportDate": "22.08.2021 17:51:06",
+          "SourceModified": "22.08.2021 17:51:06",
+          "FilePropertiesHash": "81e1e5d"
+        },
         "testAbfrage1.bas": {
           "ExportDate": "21.08.2021 00:01:10",
           "SourceModified": "21.08.2021 00:01:10",
@@ -144,20 +159,20 @@
           "FilePropertiesHash": "a77698c"
         },
         "Tagesplan.xml": {
-          "ExportDate": "19.08.2021 21:50:56",
-          "SourceModified": "19.08.2021 21:50:56",
-          "FilePropertiesHash": "9c7c74a"
+          "ExportDate": "22.08.2021 17:51:05",
+          "SourceModified": "22.08.2021 17:51:05",
+          "FilePropertiesHash": "3011d40"
         },
         "Veranstaltung.xml": {
-          "ExportDate": "21.08.2021 00:01:10",
-          "SourceModified": "21.08.2021 00:01:10",
-          "FilePropertiesHash": "ba2ddf5"
+          "ExportDate": "22.08.2021 17:51:05",
+          "SourceModified": "22.08.2021 17:51:05",
+          "FilePropertiesHash": "cc1df99"
         }
       },
       "VB Project": {
         "vbe-project.json": {
           "Hash": "99b8dec",
-          "ExportDate": "21.08.2021 00:21:19",
+          "ExportDate": "22.08.2021 17:51:04",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "60ce269"
         }
@@ -165,7 +180,7 @@
       "VBE References": {
         "vbe-references.json": {
           "Hash": "b8c006d",
-          "ExportDate": "21.08.2021 00:21:19",
+          "ExportDate": "22.08.2021 17:51:05",
           "SourceModified": "19.08.2021 21:28:53",
           "FilePropertiesHash": "4a2b253"
         }

@@ -3,7 +3,7 @@ Beginning Export of all Source
 BTPlan_Multi_field_jetzt_Time_Picker1.accdb
 VCS Version 3.4.15
 Using Fast Save
-21.08.2021 00:21:18
+22.08.2021 17:51:04
 -------------------------------------
 -------------------------------------
 Exporting project...          
@@ -38,25 +38,34 @@ Exporting themes...
 -------------------------------------
 No modified imex specs found in this database.
 -------------------------------------
-No modified tables found in this database.
+Exporting tables...           
+  Tagesplan
+    Sanitized in 0,007 seconds.
+  Tagesplan (SQL)
+  Veranstaltung
+    Sanitized in 0,004 seconds.
+  Veranstaltung (SQL)
+[2]
 -------------------------------------
 Exporting queries...          
-  testAbfrage1
-    Sanitized in 0,002 seconds.
-  testAbfrage1 (SQL)
+  qry_alles_Wichtige
+    Sanitized in 0,005 seconds.
+  qry_alles_Wichtige (SQL)
+  qryVeranstaltung
+    Sanitized in 0,001 seconds.
+  qryVeranstaltung (SQL)
+[2]
+-------------------------------------
+Exporting forms...            
+  frmTagesplan
+    Sanitized in 0,010 seconds.
 [1]
 -------------------------------------
-No modified forms found in this database.
--------------------------------------
 No modified macros found in this database.
-  Removing orphaned file: Kopie von testAbfrage1.bas
-  Removing orphaned file: Kopie von testAbfrage1.json
-  Removing orphaned file: testAbfrage1_nericht.bas
-  Removing orphaned file: Veranstaltung Abfrage_einspaaltig.bas
 -------------------------------------
 Exporting reports...          
-  Bericht1_der_fastgeht
-    Sanitized in 0,006 seconds.
+  rptTagesplan
+    Sanitized in 0,019 seconds.
 [1]
 -------------------------------------
 No modified table data found in this database.
@@ -82,7 +91,7 @@ Exporting nav pane groups...
 -------------------------------------
 No modified hidden attributes found in this database.
 -------------------------------------
-Done. (1,19 seconds)
+Done. (2,44 seconds)
 
 --------------------------------------------------
                 PERFORMANCE REPORTS
@@ -92,43 +101,49 @@ Object Type                   Count     Seconds
 Project                       1         0,01
 VB Project                    1         0,01
 VBE References                3         0,02
-Saved Specs                   1         0,01
+Saved Specs                   1         0,02
 DB Properties                 33        0,10
 Themes                        1         0,01
-Queries                       1         0,02
-Reports                       1         0,10
-Relations                     4         0,04
+Tables                        2         0,08
+Queries                       2         0,04
+Forms                         1         0,75
+Reports                       1         0,06
+Relations                     4         0,05
 Doc Properties                2         0,01
 Nav Pane Groups               1         0,01
 --------------------------------------------------
-TOTALS:                       49        0,32
+TOTALS:                       53        1,18
 --------------------------------------------------
 
 --------------------------------------------------
 Operations                    Count     Seconds
 --------------------------------------------------
-Read File                     16        0,00
-Parse JSON                    13        0,01
-Convert to JSON               499       0,18
-Compute SHA256                16        0,00
-Console Updates               2         0,77
-Compare Dictionary            11        0,00
-Get Modified Date             5         0,00
-Get File Property Hash        5         0,00
-Clear Orphaned                7         0,04
-Write File                    5         0,01
-Verify Path                   8         0,00
+Read File                     20        0,03
+Parse JSON                    12        0,02
+Convert to JSON               501       0,20
+Compute SHA256                21        0,00
+Console Updates               3         1,64
+Compare Dictionary            10        0,00
+Get Modified Date             9         0,00
+Get File Property Hash        9         0,00
+Clear Orphaned                7         0,05
+Write File                    13        0,01
+Verify Path                   20        0,00
 Create Folder                 1         0,00
 Export Theme                  1         0,00
-App.SaveAsText()              2         0,01
-Delete File                   6         0,01
-Read File Bytes               3         0,00
-Sanitize File                 2         0,01
-Save Query SQL                1         0,00
-Get VBA Hash                  7         0,00
-Read File DevMode             1         0,00
+App.ExportXML()               2         0,04
+Sanitize XML                  2         0,00
+Format XML                    2         0,00
+Save Table SQL                2         0,01
+App.SaveAsText()              4         0,03
+Read File Bytes               6         0,00
+Sanitize File                 4         0,03
+Save Query SQL                2         0,00
+Delete File                   1         0,00
+Get VBA Hash                  9         0,00
+Read File DevMode             2         0,01
 --------------------------------------------------
-Other Operations                        0,17
+Other Operations                        0,39
 --------------------------------------------------
 
 
